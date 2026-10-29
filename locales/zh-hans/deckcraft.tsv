@@ -280,6 +280,7 @@
 	DeckCraft {VERSION} is up to date.	DeckCraft {VERSION} 已是最新版本。
 	DeckCraft's own format: everything is kept	DeckCraft 自有格式：保留所有内容
 	Decrease List Level	降低列表级别
+	Decrease {label}	减少 {label}
 	Default tab stops (in):	默认制表位 (in)：
 	Delay:	延迟：
 	Delete Columns	删除列
@@ -449,6 +450,7 @@
 	Icons	图标
 	Include hidden slides	包括隐藏幻灯片
 	Increase List Level	提高列表级别
+	Increase {label}	增加 {label}
 	Indent after text must be a number of inches	文本之后的缩进必须是英寸数
 	Indent before text must be a number of inches	文本之前的缩进必须是英寸数
 	Indentation	缩进
@@ -1090,6 +1092,8 @@
 	Zoom on	缩放开启
 	Zoom to	缩放至
 	Zoom…	缩放…
+	{label} value	{label} 值
+	{name} options	{name} 选项
 	{n} slides per page	每页 {n} 张幻灯片
 	{} of {}	第 {} 页，共 {} 页
 	“{from}” isn't used explicitly.	“{from}”未被明确使用。
