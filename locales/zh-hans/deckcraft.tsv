@@ -37,18 +37,18 @@
 	A fixed copy that keeps its layout on any device	在任何设备上保持版式的固定副本
 	A photo album holds at most 48 pictures or text boxes	相册最多可容纳 48 张图片或文本框
 	About DeckCraft	关于 DeckCraft
-	Accent 1	强调文字颜色 1
-	Accent 2	强调文字颜色 2
-	Accent 3	强调文字颜色 3
-	Accent 4	强调文字颜色 4
-	Accent 5	强调文字颜色 5
-	Accent 6	强调文字颜色 6
+	Accent 1	强调色 1
+	Accent 2	强调色 2
+	Accent 3	强调色 3
+	Accent 4	强调色 4
+	Accent 5	强调色 5
+	Accent 6	强调色 6
 	Accept	接受
 	Accept\nAll	接受\n全部
 	Accept All ({})	全部接受 ({})
 	Accept Revision	接受修订
 	Accessibility Checker	辅助功能检查器
-	Account	帐户
+	Account	账户
 	Action	操作
 	Action Button: {k}	动作按钮：{k}
 	Action Buttons	动作按钮
@@ -96,8 +96,8 @@
 	All slides	所有幻灯片
 	All slides on	所有幻灯片
 	Alt\nText	替换\n文字
-	Alt Text	替换文字
-	Alt text	替换文字
+	Alt Text	替代文字
+	Alt text	替代文字
 	An open-source, clean-room project. Not affiliated with Microsoft.	开源、净室项目，与 Microsoft 无关联。
 	Animated GIF (.gif)	动画 GIF (.gif)
 	Animation\nPainter	动画\n刷
@@ -138,7 +138,7 @@
 	Before text	文本之前
 	Begin arrow	起点箭头
 	Begin size	起点大小
-	Bevel	棱台
+	Bevel	斜角
 	Black on	黑屏
 	Black Pen	黑色笔
 	Blank Presentation	空白演示文稿
@@ -331,7 +331,7 @@
 	e.g. 1-3, 5	例如 1-3, 5
 	Edit\nData	编辑\n数据
 	Edit\nShape	编辑\n形状
-	Edit Alt Text…	编辑替换文字…
+	Edit Alt Text…	编辑替代文字…
 	Edit Data	编辑数据
 	Edit Header & Footer	编辑页眉和页脚
 	Edit Photo Album…	编辑相册…
@@ -435,7 +435,7 @@
 	Heading sample  {major}	标题示例  {major}
 	Heading:	标题：
 	Height (in):	高度 (in)：
-	Height ({abbr}):	高度 ({abbr}):
+	Height ({abbr}):	高度 ({abbr})：
 	Hidden slides	隐藏幻灯片
 	Hide\nSlide	隐藏\n幻灯片
 	Hide Background Graphics	隐藏背景图形
@@ -484,9 +484,9 @@
 	Insert Table…	插入表格…
 	Inserted {} slides	已插入 {} 张幻灯片
 	Insert…	插入…
-	Inside Borders	内部边框
-	Inside Horizontal Border	内部横边框
-	Inside Vertical Border	内部竖边框
+	Inside Borders	内部框线
+	Inside Horizontal Border	内部横框线
+	Inside Vertical Border	内部竖框线
 	Inspect Presentation	检查演示文稿
 	Interface language:	界面语言：
 	Interface size	界面大小
